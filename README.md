@@ -103,5 +103,5 @@ POST /api/auth/login
 
 Po zalogowaniu zwracany jest token JWT, który należy dodawać do nagłówka:
 
-Authorization: Bearer <TOKEN>
+Authorization: Bearer TOKEN
 
