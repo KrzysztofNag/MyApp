@@ -94,9 +94,9 @@ Body:
 
 {
 
-  "username": "test@test.test",
+    "email": "test@test.test",
   
-  "password": "password123"
+    "password": "password123"
   
 }
 
